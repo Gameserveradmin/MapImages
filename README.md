@@ -1,0 +1,2 @@
+# MapImages
+Gameserver map images
